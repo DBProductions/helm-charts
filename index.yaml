@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  simple:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-05T20:41:16.644207+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 74ddb0e82d66250e044419b81610bfdd1318e87830735a4b17ca019378fd694e
+    name: simple
+    urls:
+    - https://github.com/DBProductions/helm-charts/simple-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-11-05T20:41:16.643555+01:00"
