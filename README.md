@@ -1,6 +1,6 @@
 # Helm Charts
 
-Public Helm chart repository as an example served with Githug pages.
+Public Helm chart repository as an example served with GitHub pages.
 
     helm lint charts/*
     helm package charts/*
